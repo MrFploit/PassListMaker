@@ -1,6 +1,6 @@
 # Password List Maker
 <br />
-#prerequisites
+# Prerequisites
 <pre><code>
 pkg install python3 git -y
 </code></pre>
@@ -14,4 +14,4 @@ python3 PasswordListMaker.py
 
 # Code by: it4min
 
-<a href="https://t.me/LinuxH">Talagram Channel</a>
+<a href="https://t.me/LinuxArmy">Talagram Channel</a>
