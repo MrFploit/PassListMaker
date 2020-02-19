@@ -1,6 +1,7 @@
 # Password List Maker
+Create a password list for password attacks
 <br />
-# Prerequisites
+# prerequisites
 <pre><code>
 pkg install python3 git -y
 </code></pre>
