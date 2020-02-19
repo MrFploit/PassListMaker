@@ -1,6 +1,6 @@
 # Password List Maker
 <br />
-# prerequisites
+#prerequisites
 <pre><code>
 pkg install python3 git -y
 </code></pre>
