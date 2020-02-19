@@ -1,6 +1,6 @@
 # Password List Maker 1.0
 # Code By it4min
-# t.me/LinuxH
+# t.me/LinuxArmy
 import os
 
 data_list = []
