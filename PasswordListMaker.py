@@ -97,7 +97,7 @@ banner = '''
  |  ___/ _` / __/ __| | |    | / __| __|
  | |  | (_| \__ \__ \ | |____| \__ \ |_ 
  |_|   \__,_|___/___/ |______|_|___/\__|
-         __  __       _                   t.me/LinuxH
+         __  __       _                   t.me/LinuxArmy
         |  \/  |     | |                  ----------------
         | \  / | __ _| | _____ _ __       Code By it4min
         | |\/| |/ _` | |/ / _ \ '__|    
@@ -105,7 +105,7 @@ banner = '''
         |_|  |_|\__,_|_|\_\___|_|      
         \033[1;m
               
-\033[92m https://github.com/it4min/passlistmaker \033[92m
+\033[92m github.com/it4min/passlistmaker \033[92m
  
           \033[1;33m           Tool Name: Password List Maker.
                      To move to the next step in this tool,
