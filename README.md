@@ -3,7 +3,7 @@ Create a password list for password attacks
 <br />
 # prerequisites
 <pre><code>
-pkg install python3 git -y
+apt install python3 git -y
 </code></pre>
 
 # Download & run
