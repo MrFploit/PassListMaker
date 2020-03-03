@@ -105,7 +105,7 @@ banner = '''
         |_|  |_|\__,_|_|\_\___|_|      
         \033[1;m
               
-\033[92m github.com/it4min/passlistmaker \033[92m
+\033[92m         github.com/it4min/passlistmaker \033[92m
  
           \033[1;33m           Tool Name: Password List Maker.
                      To move to the next step in this tool,
