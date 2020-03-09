@@ -80,7 +80,7 @@ def get_data():
             elif len(x) < 6:
                 add(x, 'data')
     while True:
-        x = input("Add more characters(Enter Caracters, n/N): ")
+        x = input(">>> Add more characters(Enter Caracters, n/N): ")
         if x == 'n':
             break
         elif x == 'N':
